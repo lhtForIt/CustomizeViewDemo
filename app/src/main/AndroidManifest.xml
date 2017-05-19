@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lht.demo.customizeviewdemo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity" >
+
+        </activity>
+
+
+        <activity android:name=".ViewPagerTest">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo1">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo2">
+
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo3">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo4">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo5">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Path">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Path_Add">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Beisaierquxian">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Beisaierquxian1">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo__Path_Op">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_DrawText">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Test">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_XiaoQiu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+    </application>
+
+</manifest>
