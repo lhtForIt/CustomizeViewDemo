@@ -72,6 +72,30 @@
         </activity>
 
         <activity android:name=".ZiDingYiDemo_XiaoQiu">
+
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo_ZuoBiaoZhuanHuan">
+            ]
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo_Clip">
+
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo_Clip1">
+
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo_Watch">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Line1View">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
