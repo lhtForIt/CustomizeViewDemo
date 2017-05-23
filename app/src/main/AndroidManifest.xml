@@ -96,6 +96,15 @@
         </activity>
 
         <activity android:name=".ZiDingYiDemo_Line1View">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_Line2View">
+
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo_Rect1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
