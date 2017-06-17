@@ -105,6 +105,47 @@
 
 
         <activity android:name=".ZiDingYiDemo_Rect1">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_JianBian">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_FiveChess">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemoSweepGradient">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemoBitmapShader">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_ComposeShader">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_XuanZhuanGuangPan">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_PoterDuffXfer">
+
+        </activity>
+
+
+        <activity android:name=".ZiDingYiDemo_circleimage">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_AnomalousPhoto">
+
+        </activity>
+
+        <activity android:name=".ZiDingYiDemo_GuaGuaLeView">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

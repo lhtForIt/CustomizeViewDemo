@@ -68,11 +68,11 @@ public class ViewPagerTest extends AppCompatActivity {
             iv.setScaleType(ImageView.ScaleType.CENTER_CROP);
             list.add(iv);
 
-            View v = new View(this);
-            lp.leftMargin = 10;
-            v.setBackgroundResource(R.drawable.selector_point_guide);
-            v.setEnabled(false);
-            relativeLayout.addView(v, lp);
+//            View v = new View(this);
+//            lp.leftMargin = 100;
+//            v.setBackgroundResource(R.drawable.selector_point_guide);
+//            v.setEnabled(false);
+//            relativeLayout.addView(v, lp);
         }
 
 
@@ -110,10 +110,6 @@ public class ViewPagerTest extends AppCompatActivity {
 
             @Override
             public void onPageSelected(int position) {
-
-                int i = position % image.length;
-//                if () {
-//                }
 
                 switch (position) {
                     case 6:
